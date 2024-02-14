@@ -1,0 +1,2 @@
+document.addEventListener("DOMContentLoaded",(()=>{document.querySelector("form").addEventListener("submit",(e=>{e.preventDefault(),window.location.href="gift-list.html"}))}));
+//# sourceMappingURL=main.b998d386.js.map
